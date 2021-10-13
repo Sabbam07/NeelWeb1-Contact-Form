@@ -12,6 +12,4 @@ $headers = "From: sabbam2004@gmail.com" . "\r\n" .
 if($email!=NULL){
     mail($to,$subject,$txt,$headers);
 }
-//redirect
-header("Location:https://neelweb1.blogspot.com");
 ?>
