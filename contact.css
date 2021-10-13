@@ -1,0 +1,26 @@
+﻿body{
+font-family:sans-serif;
+background-color:background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+header{
+
+	text-align:center;
+}
+form{
+        float:center;	
+	text-align:center;
+	margin:15px;
+	border-style:solid;
+	border-width:4px;
+	border-color:background:background: #00F260;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */	
+}
+button{
+background-color:green;
+color:black;
+text-align:center;
+background-align:center;
+}
