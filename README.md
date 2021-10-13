@@ -14,5 +14,3 @@
 	<button>send message</button>
 
 </form>
-</body>
-</html>
