@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 	<title>NeelWeb1 Contact Form</title>
@@ -8,6 +7,7 @@
 <body>
 <link rel="stylesheet" type="text/css" href="contact.css" media="screen">
 <form action="https://formsubmit.co/sabbam2004@gmail.com" method="POST">
+<input type="hidden" name="_next" value="https://neelweb1.blogspot.com/">
 <input type="hidden" name="_autoresponse" value="your custom message">
 <input type="hidden" name="_subject" value="message from NeelWeb1!">
 <form>
@@ -17,5 +17,3 @@
 	<button>send message</button>
 
 </form>
-</body>
-</html>
