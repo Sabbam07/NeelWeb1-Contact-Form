@@ -10,7 +10,7 @@
 <form action="https://formsubmit.co/sabbam2004@gmail.com" method="POST">
 <input type="hidden" name="_autoresponse" value="Mesaage From NeelWeb1">
 <input type="hidden" name="_subject" value="message from NeelWeb1!">
-<input type="hidden" name="_next" value="Thankyou.html">
+<input type="hidden" name="_next" value="https://sabbam07.github.io/NeelWeb1-Contact-Form/Thankyou.html">
 <form>
 	<b>Name</b>: <b><input type="text" name="name" required/></b><br/><br/>
 	<b>Email</b>: <input type="email" name="mail" required/><br/><br/>	
